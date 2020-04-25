@@ -1,4 +1,1 @@
 Welcome to learn git!
-
-
-Hope for best.
